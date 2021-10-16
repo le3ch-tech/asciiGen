@@ -1,6 +1,6 @@
 # Ascii Art Generator 
 
-##How to use:
+## How to use:
 `git clone https://github.com/le3ch-tech/asciiGen.git`
 
 Linux:
@@ -9,7 +9,7 @@ Linux:
 Windows:
 - `python generate.py [title]`
 
-##Informational
+## Informational
 
 - Pyfiglet gets installed within the program.
 
